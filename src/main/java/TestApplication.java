@@ -9,7 +9,7 @@ import org.springframework.scheduling.annotation.EnableScheduling;
 public class TestApplication {
     public static void main(String[] args) {
 
-        System.out.println("hello, codearts test manven build java now");
+        System.out.println("hello, codearts test manven build java nowmmm");
     }
 
 }
